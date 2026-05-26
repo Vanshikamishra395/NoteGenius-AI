@@ -39,4 +39,5 @@ PDF Upload → Text Extraction → AI Processing → Notes Generation
 
 ## Author
 
-Vanshika Mishra
+Vanshika Mishra & Swarnim Shukla 
+
