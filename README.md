@@ -2,6 +2,9 @@
 
 An AI-powered full-stack web application that converts PDF study notes into summaries, important topics, MCQs, and long-answer questions.
 
+##LIVE DEMO 
+-⚠️ Full AI functionality works locally due to backend/API limitations on free deployment.
+
 ## Features
 
 - Upload PDF notes
